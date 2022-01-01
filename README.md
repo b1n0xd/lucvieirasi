@@ -1,6 +1,6 @@
 ### Hello Guy's,my name is Luciano Vieira! 👋
 - 👨‍💻  I'm Developer and Pentester.
-- 📚  I'm studying Cybersecurity at UNIFACS 3/5.
+- 📚  I'm studying Software Engineering at UniceSumar.
 - 🖥️  I'm currently working as a Support Analyst at HostGator - NewFold Digital.
    
 <div align="center">
