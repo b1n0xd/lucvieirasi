@@ -49,7 +49,7 @@ class Programmer {
 <br>
 
 ### Last jobs
-last work experiences:
+My work experiences:
 
 [<img align="left" height="96px" width="96px" alt="Warpnet" src="https://assets-blog.hostgator.com.br/wp-content/uploads/2020/10/snappy-profile-96x96.png"/>](https://www.hostgator.com.br/)
 
@@ -58,7 +58,7 @@ last work experiences:
 Languages & Technologies: `Linux (CentOs)`, `Plesk/WHM/cPanel`, `PHP/Wordpress`, `Bash`, `Shellscript`,\
 <br/>
 
-#### Rede Sociais!
+#### Social network!
 
 🏡 [Website][website] **|** 
 🐦 [Twitter][twitter] **|** 
