@@ -2,7 +2,7 @@
 
 - 👨‍💻  I'm Developer.
 - 📚  I'm studying Software Engineering at UniceSumar.
-- 🖥️  I'm currently working as a Support Analyst at HostGator - NewFold Digital.
+- 🖥️  I'm currently working as a Technical support at HostGator - NewFold Digital.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -18,7 +18,7 @@ class Programmer {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages & Technologies:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -32,7 +32,7 @@ class Programmer {
 
 
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvieirasi&theme=dracula&hide_langs_below=1" />
@@ -47,6 +47,16 @@ class Programmer {
 [Instagram]: https://www.instagram.com/lucianovieirapro/
 [Linkedin]: https://www.linkedin.com/in/lucvieirasi/
 <br>
+
+### Last jobs
+last work experiences:
+
+[<img align="left" height="96px" width="96px" alt="Warpnet" src="https://assets-blog.hostgator.com.br/wp-content/uploads/2020/10/snappy-profile-96x96.png"/>](https://www.hostgator.com.br/)
+
+**Technical support** \
+[**SpaceX**](https://www.spacex.com/) • Full-time - CLT \
+Languages & Technologies: `Linux (CentOs)`, `Plesk/WHM/cPanel`, `PHP/Wordpress`, `Bash`, `Shellscript`,\
+<br/>
 
 #### Rede Sociais!
 
