@@ -14,7 +14,7 @@ class Programmer {
  acknowledgements = "Desenvolvedor"
  
  primarySkillset = "Hardskills"
- languages = listOf("Javascript", "Ruby", "Python") 
+ languages = ["Javascript", "Ruby", "Python"] 
 }
 ```
 
@@ -42,15 +42,15 @@ class Programmer {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="Luciano Vieira github stats"/>
 </a>
 
-[website]: https://lucianovieirapro.com/
-[twitter]: https://twitter.com/lucvieirapro
-[instagram]: https://www.instagram.com/lucianovieirapro/
-[linkedin]: https://www.linkedin.com/in/lucvieirasi/
+[Website]: https://lucianovieirapro.com/
+[Twitter]: https://twitter.com/lucvieirapro
+[Instagram]: https://www.instagram.com/lucianovieirapro/
+[Linkedin]: https://www.linkedin.com/in/lucvieirasi/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🏡 [Website][website] **|** 
+🐦 [Twitter][twitter] **|** 
+📷 [Instagram][instagram] **|** 
+👔 [Linkedin][linkedin]
