@@ -49,6 +49,7 @@ class Programmer {
 <br>
 
 ### Last jobs
+<br>
 My work experiences:
 
 [<img align="left" height="96px" width="96px" alt="Warpnet" src="https://assets-blog.hostgator.com.br/wp-content/uploads/2020/10/snappy-profile-96x96.png"/>](https://www.hostgator.com.br/)
