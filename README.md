@@ -39,7 +39,7 @@ class Programmer {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucvieirasi&show_icons=true&theme=dracula&line_height=27" alt="Luciano Vieira github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucvieirasi&show_icons=true&theme=dark&line_height=27" alt="Luciano Vieira github stats"/>
 </a>
 
 [Website]: https://lucianovieirapro.com/
