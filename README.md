@@ -57,6 +57,14 @@ class Programmer {
 [**HostGator**](https://www.hostgator.com.br/) • Full-time - CLT \
 Languages & Technologies: `Linux (CentOs)`, `Plesk/WHM/cPanel`, `PHP/Wordpress`, `Bash`, `Shellscript`,\
 <br/>
+<br>
+
+[<img align="left" height="96px" width="96px" alt="Warpnet" src="https://logos-world.net/wp-content/uploads/2021/03/FiveM-Logo.png"/>](https://www.fivembrasil.com/)
+
+**Developer** \
+[**FiveM**](https://www.fivembrasil.com/) • Full-time - PJ \
+Languages & Technologies: `Windows Server`, `.Lua`, `Html/Css/Javascript`,\
+<br/>
 
 #### Social network!
 
