@@ -1,6 +1,6 @@
 ### Hello Guy's,my name is Luciano Vieira! 👋
 
-- 👨‍💻  I'm Developer.
+- 👨‍💻  I'm Back-end Developer.
 - 📚  I'm studying Software Engineering at UniceSumar.
 - 🖥️  I'm currently working as a Technical support at HostGator - NewFold Digital.
 
@@ -11,10 +11,10 @@
 ```ruby
 class Programmer {
  name = "Luciano Vieira"
- acknowledgements = "Desenvolvedor"
+ acknowledgements = "Back-end Developer"
  
  primarySkillset = "Hardskills"
- languages = ["Javascript", "Ruby", "Python"] 
+ languages = ["Python", "PHP", "Go"] 
 }
 ```
 
