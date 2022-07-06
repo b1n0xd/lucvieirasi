@@ -14,7 +14,7 @@ class Programmer {
  acknowledgements = "Back-end Developer"
  
  primarySkillset = "Hardskills"
- languages = ["Python", "PHP", "Go"] 
+ languages = ["Javscript", "Python", "Go"] 
 }
 ```
 
