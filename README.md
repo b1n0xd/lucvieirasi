@@ -1,7 +1,7 @@
 ### Hello Guy's,my name is Luciano Vieira! 👋
 
-- 👨‍💻  I'm Pentester,BugHunter and Back-end Developer.
-- 📚  I'm studying Software Engineering at UniceSumar.
+- 👨‍💻  I'm Pentester,Back-end Developer and Pentester.
+- 📚  I'm studying Cybersecurity at UNIP.
 - 🖥️  I'm currently working as a Technical support at HostGator - NewFold Digital.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -14,13 +14,18 @@ class Programmer {
  acknowledgements = "Back-end Developer"
  
  primarySkillset = "Hardskills"
- languages = ["Javscript", "Python", "Go"] 
+ languages = ["Python", "Go", "C++"] 
 }
 ```
 
 ## **Languages & Technologies:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/amazon.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/docker.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/ansible.svg"></code>
+<code><img height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/terraform.png?raw=true"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/flask.svg"></code>
