@@ -26,7 +26,7 @@ class Programmer {
 <code><img height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/terraform.png?raw=true"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://github.com/lucvieirasi/githubprofile/blob/main/kisspng-bash-shell-script-scripting-language-command-line-guaje-juaruipav-5b9092f71962f9.149159101536201463104.png?raw=true"></code>
+<code><img height="30" src="[https://github.com/lucvieirasi/githubprofile/blob/main/kisspng-bash-shell-script-scripting-language-command-line-guaje-juaruipav-5b9092f71962f9.149159101536201463104.png?raw=true](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png)"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/flask.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/django.svg"></code>
