@@ -52,7 +52,7 @@ class Programmer {
 
 ## **My work experiences:**
 <br>
-[<img align="left" height="96px" width="96px" alt="HostGator Latam" src="https://pbs.twimg.com/profile_images/1452640511127396358/pK5fJDYn_400x400.jpg"/>](https://www.hostgator.com.nr/)
+<img align="left" height="96px" width="96px" alt="HostGator Latam" src="https://pbs.twimg.com/profile_images/1452640511127396358/pK5fJDYn_400x400.jpg"/>
 
 **Technical support** \
 [**HostGator**](https://www.hostgator.com.br/) • Full-time - CLT \
