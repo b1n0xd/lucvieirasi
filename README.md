@@ -1,6 +1,6 @@
 ### Hello Guy's,my name is Luciano Vieira! 👋
 
-- 👨‍💻  I'm  Developer and Pentester.
+- 👨‍💻  I'm  Developer.
 - 📚  I'm studying at UNIP.
 - 🖥️  I'm currently working as a Technical support at HostGator - NewFold Digital.
 
@@ -52,8 +52,7 @@ class Programmer {
 
 ## **My work experiences:**
 <br>
-
-[<img align="left" height="96px" width="96px" alt="Warpnet" src="[https://assets-blog.hostgator.com.br/wp-content/uploads/2020/10/snappy-profile-96x96.png](https://assets-blog.hostgator.com.br/wp-content/uploads/2020/10/snappy-profile-96x96.png)"/>](https://www.hostgator.com.br/)
+[<img align="left" height="96px" width="96px" alt="HostGator Latam" src="https://pbs.twimg.com/profile_images/1452640511127396358/pK5fJDYn_400x400.jpg"/>](https://www.hostgator.com.nr/)
 
 **Technical support** \
 [**HostGator**](https://www.hostgator.com.br/) • Full-time - CLT \
