@@ -1,7 +1,7 @@
 ### Hello Guy's,my name is Luciano Vieira! 👋
 
-- 👨‍💻  I'm Back-end Developer and Pentester.
-- 📚  I'm studying Cybersecurity at UNIP.
+- 👨‍💻  I'm  Developer and Pentester.
+- 📚  I'm studying at UNIP.
 - 🖥️  I'm currently working as a Technical support at HostGator - NewFold Digital.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
