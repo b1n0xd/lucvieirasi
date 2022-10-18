@@ -29,7 +29,7 @@ class Programmer {
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/amazon.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/docker.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/flask.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/django.svg"></code>
