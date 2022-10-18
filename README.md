@@ -1,7 +1,7 @@
 ### Hello Guy's,my name is Luciano Vieira! 👋
 
 - 👨‍💻  I'm  Developer.
-- 📚  I'm studying at UNIP.
+- 📚  I'm studying Software Engineering at Ampli .
 - 🖥️  I'm currently working as a Technical support at HostGator - NewFold Digital.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -11,10 +11,10 @@
 ```python
 class Programmer {
  name = "Luciano Vieira"
- acknowledgements = "Back-end Developer"
+ acknowledgements = "Software Developer"
  
  primarySkillset = "Hardskills"
- languages = ["Python", "Go"] 
+ languages = ["Javascript", "Python", "Golang"] 
 }
 ```
 
