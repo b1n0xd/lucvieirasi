@@ -19,13 +19,17 @@ class Programmer {
 ```
 
 ## **Languages & Technologies:**  
+<code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/redux.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/amazon.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/docker.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-mint.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/lucvieirasi/githubprofile/main/bash-1.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/flask.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/django.svg"></code>
