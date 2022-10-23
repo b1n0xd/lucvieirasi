@@ -21,7 +21,7 @@ class Programmer {
 ## **Languages & Technologies:**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,html,css,javascript,ts,react,redux,dotnet,py,flask,django,fastapi,mysql,linux,git,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,redux,dotnet,py,flask,django,fastapi,mysql,linux,git,docker,aws,bash,powershell" />
   </a>
 </p>
 
