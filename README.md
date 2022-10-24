@@ -8,20 +8,11 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```python
-class Programmer {
- name = "Luciano Vieira"
- acknowledgements = "Software Developer"
- 
- primarySkillset = "Hardskills"
- languages = ["Javascript", "Python", "Golang"] 
-}
-```
 
 ## **Languages & Technologies:**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,redux,dotnet,py,flask,django,fastapi,mysql,linux,git,docker,aws,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,redux,dotnet,java,spring,mysql,linux,git,docker,aws,bash,powershell" />
   </a>
 </p>
 
