@@ -8,7 +8,7 @@
 ## **Languages & Technologies:**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,redux,dotnet,java,spring,mysql,linux,git,docker,aws,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,redux,dotnet,java,spring,mysql,linux,git,docker,aws,bash" />
   </a>
 </p>
 
